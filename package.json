@@ -1,0 +1,14 @@
+{
+  "name": "sysinfoapp",
+  "version": "1.0.0",
+  "description": "System Monitor",
+  "main": "main.js",
+  "scripts": {
+    "start": "electron ."
+  },
+  "author": "Alex",
+  "license": "ISC",
+  "dependencies": {
+    "electron": "^3.0.10"
+  }
+}
